@@ -1,12 +1,12 @@
-# CI.py
+# ci.py
 
-A Python toolkit for working with Continuous Integration services. For Python 2.7 and 3.5+.
+A Python library for working with Continuous Integration services. For Python 2.7 and 3.5+.
 
 ## Usage
 
 First, `pip` install ci.py:
 
-    $ pip install ci.py
+    $ pip install ci-py
 
 ## Available Methods
 
