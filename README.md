@@ -1,5 +1,7 @@
 # ci.py
 
+[![Build Status](https://travis-ci.org/grantmcconnaughey/ci.py.svg?branch=master)](https://travis-ci.org/grantmcconnaughey/ci.py)
+
 A Python library for working with Continuous Integration services. For Python 2.7 and 3.5+.
 
 ## Usage
